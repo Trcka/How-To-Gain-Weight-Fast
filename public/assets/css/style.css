@@ -1,4 +1,7 @@
 #icon {
   margin-top: 10px;
-  height: 350px;
+  height: 450px;
+  background-image: url('theBurger.png');
+  background-repeat: no-repeat;
+  background-position: center;
 }
